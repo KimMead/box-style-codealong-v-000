@@ -131,7 +131,7 @@ img, video, audio, iframe, table, form {
 .col-1 {
   float: left;
   width: 32%;
-  background: white;
+  
 
 }
 
@@ -184,7 +184,7 @@ img, video, audio, iframe, table, form {
   z-index: 2;
   border-bottom: 1px solid #ccc;
   text-align: center;
-  
+
 }
 
 #navbar nav {
