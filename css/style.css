@@ -183,6 +183,7 @@ img, video, audio, iframe, table, form {
   z-index: 2;
   border-bottom: 1px solid #ccc;
   text-align: center;
+  background: white;
 }
 
 #navbar nav {
@@ -208,7 +209,7 @@ img, video, audio, iframe, table, form {
 }
 
 #navbar nav a:hover {
-  
+
 }
 
 
