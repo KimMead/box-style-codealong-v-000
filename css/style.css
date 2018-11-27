@@ -93,7 +93,6 @@ background: linear-gradient(
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efefef", endColorstr="#dddddd", GradientType=0); /* IE6-9 */
 }
 
-
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
@@ -176,6 +175,15 @@ img, video, audio, iframe, table, form {
 
 /*////////// NAVBAR //////////*/
 
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px solid #ccc;
+  text-align: center;
+}
 
 
 /*////////// LOGO //////////*/
