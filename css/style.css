@@ -197,7 +197,14 @@ img, video, audio, iframe, table, form {
   text-transform: uppercase;
   color: black;
   text-align: center;
-  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  text-decoration: none; 
+  font: 1em "Trebuchet MS", Arial, sans-serif;
+}
+
+#navbar nav a.selected {
+  background: #333;
+  color: white;
 }
 
 
